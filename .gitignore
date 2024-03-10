@@ -39,7 +39,7 @@ out/
 *.tar.gz
 *.rar
 
-### Exclusions ###
+### Exclusions ###-
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
